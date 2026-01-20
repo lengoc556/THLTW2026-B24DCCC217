@@ -42,6 +42,13 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+		name:"Profile",
+		path:"/profile",
+		icon:"UserOutlined",
+		component:"./Profile",
+	},
+	
 
 	// DANH MUC HE THONG
 	// {
