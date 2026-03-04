@@ -1,4 +1,7 @@
-﻿export default [
+﻿import path from "path";
+
+
+export default [
 	{
 		path: '/user',
 		layout: false,
@@ -42,12 +45,21 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	
 	{
-		name:"Profile",
-		path:"/profile",
-		icon:"UserOutlined",
-		component:"./Profile",
+		name:'Game',
+		path:'/game',
+		icon:'PlayCircleOutlined',
+		component:'./Game',
 	},
+	{
+	path: "/tgb",
+	name: 'StudyTracker',
+	icon: 'BookOutlined',
+	
+	component: './TGB',
+	},
+
 	
 
 	// DANH MUC HE THONG
