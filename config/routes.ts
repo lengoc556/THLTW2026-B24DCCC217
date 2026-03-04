@@ -48,6 +48,7 @@
 		icon:"UserOutlined",
 		component:"./Profile",
 	},
+	{ path: '/game', name: 'Game', icon: 'PlayCircleOutlined', component: './Game', },
 	
 
 	// DANH MUC HE THONG
@@ -102,4 +103,5 @@
 	{
 		component: './exception/404',
 	},
+	
 ];
