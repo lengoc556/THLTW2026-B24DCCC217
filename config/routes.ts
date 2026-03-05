@@ -43,11 +43,12 @@
 		component: './TodoList',
 	},
 	{
-		name:"Profile",
-		path:"/profile",
+		name:"Baitap1",
+		path:"/baitap1",
 		icon:"UserOutlined",
-		component:"./Profile",
+		component:"./Baitap1",
 	},
+	
 	
 
 	// DANH MUC HE THONG
@@ -102,4 +103,5 @@
 	{
 		component: './exception/404',
 	},
+	
 ];
