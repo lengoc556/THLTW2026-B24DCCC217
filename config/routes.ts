@@ -43,12 +43,17 @@
 		component: './TodoList',
 	},
 	{
-		name:"Profile",
-		path:"/profile",
-		icon:"UserOutlined",
-		component:"./Profile",
+		path: '/bai1',
+		name: 'Bai1',
+		component: './Bai1',
 	},
-	{ path: '/game', name: 'Game', icon: 'PlayCircleOutlined', component: './Game', },
+	{
+		path: '/bai2',
+		name: 'Bai2',
+		component: './Bai2',
+	},
+	
+	
 	
 
 	// DANH MUC HE THONG
