@@ -42,13 +42,7 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
-	{
-		name:"Profile",
-		path:"/profile",
-		icon:"UserOutlined",
-		component:"./Profile",
-	},
-	{ path: '/game', name: 'Game', icon: 'PlayCircleOutlined', component: './Game', },
+	
 	
 
 	// DANH MUC HE THONG
