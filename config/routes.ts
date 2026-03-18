@@ -42,6 +42,8 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{path: '/th03', name: 'TH03', component: './TH03', icon: 'TableOutlined'},
+	
 	
 	
 
