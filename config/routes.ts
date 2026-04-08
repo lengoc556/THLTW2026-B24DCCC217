@@ -42,6 +42,11 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+		path: '/th05',
+		name: 'TH05',
+		component: './TH05',
+	},
 	
 	
 
