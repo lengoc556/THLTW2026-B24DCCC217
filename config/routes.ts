@@ -42,6 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+		path: '/ktgk',
+		name: 'KTGK',
+		icon: 'BookOutlined',
+		component: './KTGK',
+	},
 	
 	
 
